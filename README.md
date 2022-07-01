@@ -11,4 +11,4 @@ tqdm<br>
 (open3d)<br>
 
 ## get started
-python pcd_segmentaton.py
+python pcd_segmentation.py
